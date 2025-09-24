@@ -6,7 +6,9 @@
       "App\\": "src/"
     }
   },
-  "scripts": {},
+  "scripts": {
+    "start": "php bin/convert.php"
+  },
   "require": {
     "php": ">=8.2"
   }
